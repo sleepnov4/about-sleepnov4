@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "next build && next export",
-    "start": "next start",
-    "lint": "next lint",
+    "build": "next build && next export"
   },
   "license": "MIT",
   "dependencies": {
