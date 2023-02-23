@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sleepnov4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_91BD5A99F3F54085AE64C809C6636CC8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62747653A74D4BB5B9A2678DD65FE56D }}
           package: .
