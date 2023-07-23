@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "eslint": "8.34.0",
+    "eslint": "8.44.0",
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
     "nextra": "^2.2.15",
