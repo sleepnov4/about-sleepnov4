@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint": "8.34.0",
-    "eslint-config-next": "13.1.6",
+    "eslint-config-next": "13.4.7",
     "next": "13.1.6",
     "nextra": "^2.2.15",
     "nextra-theme-blog": "^2.2.15",
